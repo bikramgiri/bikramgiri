@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @giribikram27
+- 👋 Hi, I’m @bikramgiri
 - 👀 I’m interested in Web Development and learning new skills.
 - 🌱 I’m currently learning HTML,CSS and Javascript
-- 📫 How to reach me @giribikram27 on linkedin
+- 📫 How to reach me @bikram-giri on linkedin
 ---
 [![GitHub Streak](https://streak-stats.demolab.com/?user=giribikram27&theme=dark)](https://git.io/streak-stats)
 ---
