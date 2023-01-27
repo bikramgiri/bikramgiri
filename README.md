@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning HTML,CSS and Javascript
 - 📫 How to reach me @bikram-giri on linkedin
 ---
-[![GitHub Streak](https://streak-stats.demolab.com/?user=giribikram27&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=bikramgiri&theme=dark)](https://git.io/streak-stats)
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giribikram27&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bikramgiri&show_icons=true&theme=radical)
 
 <!---
 giribikram27/giribikram27 is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
