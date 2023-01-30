@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bikram Giri</h1>
 <h3 align="center">A Computer Science Student</h3>
 
-<p align="left"><p align="center"> <img src="https://komarev.com/ghpvc/?username=bikramgiri&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="bikramgiri"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bikramgiri&label=Profile%20views&color=0e75b6&style=flat" alt="bikramgiri" /> </p>
 
 - 👀 I’m interested in **Web Development** and **learning new skills**.
 - 🌱 I’m currently learning **HTML,CSS and Javascript**.
-- 📫 How to reach me** @bikram-giri on linkedin**.
+- 📫 How to reach me **@bikram-giri on linkedin** || **giribikram40@gmail.com**.
 ---
 
 <h3 align="left">Connect with me:</h3>
