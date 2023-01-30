@@ -9,7 +9,7 @@
 
 - 👀 I’m interested in **Web Development** and **learning new skills**.
 - 🌱 I’m currently learning **HTML,CSS and Javascript**.
-- 📫 How to reach me **@bikram-giri on linkedin** || **giribikram40@gmail.com**.
+- 📫 How to reach me **giribikram40@gmail.com**.
 ---
 
 <h3 align="left">Connect with me:</h3>
