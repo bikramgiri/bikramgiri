@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bikram Giri</h1>
 <h3 align="center">A Computer Science Student</h3>
 
-<p align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=bikramgiri&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="bikramgiri"/>
+<p align="left"><p align="center"> <img src="https://komarev.com/ghpvc/?username=bikramgiri&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="bikramgiri"/>
 
 - 👀 I’m interested in **Web Development** and **learning new skills**.
 - 🌱 I’m currently learning **HTML,CSS and Javascript**.
