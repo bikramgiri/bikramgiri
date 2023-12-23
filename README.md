@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bikramgiri&label=Profile%20views&color=0e75b6&style=flat" alt="bikramgiri" /> </p>
 
-- 👀 I’m interested in **Web Development** and **learning new skills**.
+- 👀 I’m interested in **AI**, **Web Development** and **learning new skills**.
 - 🌱 I’m currently learning **HTML,CSS and Javascript**.
 - 📫 How to reach me **giribikram40@gmail.com**.
 ---
