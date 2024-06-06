@@ -20,6 +20,13 @@
 - [Unlocking Your Potential: Strategies for Personal Development and Growth](https://giribikram.com.np/unlocking-your-potential-practical-tips-for-personal-development-and-growth/)
 - [Importance of LinkedIn profile](https://giribikram.com.np/importance-of-linkedin-profile/)
 
+  ## 📺 Latest YouTube Videos
+- [10 Reasons Why LinkedIn is Essential for Every Professional || LinkedIn Secret](https://www.youtube.com/watch?v=fW8ant75WRo)
+- [10 Best Chrome Extensions in 2024🔥 || Boost Your Productivity!!](https://www.youtube.com/watch?v=4Uc1PQR0tNA&t=1s)
+- [Tips to stay safe on the internet II Online Security](https://www.youtube.com/watch?v=URXpbgqLYMQ&t=42s)
+- [Tips to Improve Laptop Battery Life II Increase Laptop Battery Performance](https://www.youtube.com/watch?v=ocHRHOwDDLw)
+- [Amazing Computer Keyboard Shortcut Keys || Become Keyboard Master](https://www.youtube.com/watch?v=0bJ0-8FbKcI&t=36s)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bikram__giri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bikram__giri" height="30" width="40" /></a>
