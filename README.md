@@ -9,6 +9,7 @@
 
 - 👀 I’m interested in **AI**, **Web Development** and **learning new skills**.
 - 🌱 I’m currently learning **Python**.
+- 🖥️  See my portfolio at Portfolio(https://bikram-giri.com.np/)
 - 📫 How to reach me **giribikram40@gmail.com**.
 ---
 
