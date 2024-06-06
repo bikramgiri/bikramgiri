@@ -12,6 +12,13 @@
 - 📫 How to reach me **giribikram40@gmail.com**.
 ---
 
+### 📝 Latest Blog Posts
+- [The Impact of AI on Society and Everyday Life](https://giribikram.com.np/the-impact-of-ai-on-society-and-everyday-life/)
+- [10 Best AI Chrome Extensions To Save You Hours Of Work](https://giribikram.com.np/10-best-ai-chrome-extensions-to-save-you-hours-of-work/)
+- [10 AI Tools To Help You Learn Anything Faster](https://giribikram.com.np/10-ai-tools-to-help-you-learn-anything-faster/)
+- [Unlocking Your Potential: Strategies for Personal Development and Growth](https://giribikram.com.np/unlocking-your-potential-practical-tips-for-personal-development-and-growth/)
+- [Importance of LinkedIn profile](https://giribikram.com.np/importance-of-linkedin-profile/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bikram__giri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bikram__giri" height="30" width="40" /></a>
