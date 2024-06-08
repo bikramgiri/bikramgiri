@@ -14,13 +14,14 @@
 ---
 
 ### 📝 Latest Blog Posts
+- [How to Write a Professional Email](https://giribikram.com.np/how-to-write-a-professional-email/)
 - [The Impact of AI on Society and Everyday Life](https://giribikram.com.np/the-impact-of-ai-on-society-and-everyday-life/)
 - [10 Best AI Chrome Extensions To Save You Hours Of Work](https://giribikram.com.np/10-best-ai-chrome-extensions-to-save-you-hours-of-work/)
 - [10 AI Tools To Help You Learn Anything Faster](https://giribikram.com.np/10-ai-tools-to-help-you-learn-anything-faster/)
 - [Unlocking Your Potential: Strategies for Personal Development and Growth](https://giribikram.com.np/unlocking-your-potential-practical-tips-for-personal-development-and-growth/)
 - [Importance of LinkedIn profile](https://giribikram.com.np/importance-of-linkedin-profile/)
 
-  ## 📺 Latest YouTube Videos
+  ### 📺 Latest YouTube Videos
 - [10 Reasons Why LinkedIn is Essential for Every Professional || LinkedIn Secret](https://www.youtube.com/watch?v=fW8ant75WRo)
 - [10 Best Chrome Extensions in 2024🔥 || Boost Your Productivity!!](https://www.youtube.com/watch?v=4Uc1PQR0tNA&t=1s)
 - [Tips to stay safe on the internet II Online Security](https://www.youtube.com/watch?v=URXpbgqLYMQ&t=42s)
