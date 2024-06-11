@@ -14,6 +14,7 @@
 ---
 
 ### 📝 Latest Blog Posts
+- [How to Stay Safe and Secure Online](https://giribikram.com.np/how-to-stay-safe-and-secure-online/)
 - [How to Write a Professional Email](https://giribikram.com.np/how-to-write-a-professional-email/)
 - [The Impact of AI on Society and Everyday Life](https://giribikram.com.np/the-impact-of-ai-on-society-and-everyday-life/)
 - [10 Best AI Chrome Extensions To Save You Hours Of Work](https://giribikram.com.np/10-best-ai-chrome-extensions-to-save-you-hours-of-work/)
