@@ -14,8 +14,8 @@
 ---
 
 ### 📝 Latest Blog Posts
+- [10 Must-Have VS Code Extensions for Developers in 2024](https://giribikram.com.np/10-must-have-vs-code-extensions-for-developers-in-2024/)
 - [Impact of Social Media on Society in 2024](https://giribikram.com.np/impact-of-social-media-on-society-in-2024/)
-- [10 Reasons You Should Read Books](https://giribikram.com.np/10-reasons-you-should-read-books/)
 - [The 10 Best Free AI Tools in 2024](https://giribikram.com.np/the-10-best-free-ai-tools-in-2024/)
 - [How to Stay Safe and Secure Online](https://giribikram.com.np/how-to-stay-safe-and-secure-online/)
 - [The Impact of AI on Society and Everyday Life](https://giribikram.com.np/the-impact-of-ai-on-society-and-everyday-life/)
