@@ -14,8 +14,8 @@
 ---
 
 ### 📝 Latest Blog Posts
+- [Importance of Digital Marketing in the Modern Era](https://giribikram.com.np/importance-of-digital-marketing-in-the-modern-era/)
 - [10 Best AI Tools for Students in 2024](https://giribikram.com.np/10-best-ai-tools-for-students-in-2024/)
-- [Why Today’s Generation is Too Addicted to Social Media](https://giribikram.com.np/why-todays-generation-is-too-addicted-to-social-media/)
 - [10 Must-Have VS Code Extensions for Developers in 2024](https://giribikram.com.np/10-must-have-vs-code-extensions-for-developers-in-2024/)
 - [The 10 Best Free AI Tools in 2024](https://giribikram.com.np/the-10-best-free-ai-tools-in-2024/)
 - [How to Stay Safe and Secure Online](https://giribikram.com.np/how-to-stay-safe-and-secure-online/)
