@@ -14,7 +14,7 @@
 ---
 
 ### 📝 Latest Blog Posts
-- [Importance of Digital Marketing in the Modern Era](https://giribikram.com.np/importance-of-digital-marketing-in-the-modern-era/)
+- [How to Get the GitHub Student Developer Pack](https://giribikram.com.np/how-to-get-the-github-student-developer-pack-in-nepal/)
 - [10 Best AI Tools for Students in 2024](https://giribikram.com.np/10-best-ai-tools-for-students-in-2024/)
 - [10 Must-Have VS Code Extensions for Developers in 2024](https://giribikram.com.np/10-must-have-vs-code-extensions-for-developers-in-2024/)
 - [The 10 Best Free AI Tools in 2024](https://giribikram.com.np/the-10-best-free-ai-tools-in-2024/)
