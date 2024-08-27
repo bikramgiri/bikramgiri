@@ -14,6 +14,7 @@
 ---
 
 ### 📝 Latest Blog Posts
+- [What is SEO and how does it work?](https://giribikram.com.np/what-is-seo-and-how-does-it-work/)
 - [What Is GitHub and Why Should You Use It?](https://giribikram.com.np/what-is-github-and-why-should-you-use-it/)
 - [How to Become a Front-End Developer in 2024](https://giribikram.com.np/how-to-become-a-front-end-developer-in-2024/)
 - [How To Start Affiliate Marketing In Nepal 2024](https://giribikram.com.np/how-to-start-affiliate-marketing-in-nepal-2024/)
