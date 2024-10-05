@@ -14,9 +14,9 @@
 ---
 
 ### 📝 Latest Blog Posts
+- [10 Best AI Coding Assistant Tools in 2024](https://giribikram.com.np/10-best-ai-coding-assistant-tools-in-2024/)
 - [10 Best AI Tools to Use in 2024](https://giribikram.com.np/10-best-ai-tools-to-use-in-2024/)
 - [10 BEST Front-End Development Tools in 2024](https://giribikram.com.np/10-best-front-end-development-tools-in-2024/)
-- [What is SEO and how does it work?](https://giribikram.com.np/what-is-seo-and-how-does-it-work/)
 - [How to Become a Front-End Developer in 2024](https://giribikram.com.np/how-to-become-a-front-end-developer-in-2024/)
 - [How To Start Affiliate Marketing In Nepal 2024](https://giribikram.com.np/how-to-start-affiliate-marketing-in-nepal-2024/)
 - [How to Get the GitHub Student Developer Pack](https://giribikram.com.np/how-to-get-the-github-student-developer-pack-in-nepal/)
