@@ -14,6 +14,7 @@
 ---
 
 ### 📝 Latest Blog Posts
+- [The Value of Living In The Moment](https://giribikram.com.np/the-value-of-living-in-the-moment/)
 - [10 Best AI Coding Assistant Tools in 2024](https://giribikram.com.np/10-best-ai-coding-assistant-tools-in-2024/)
 - [10 Best AI Tools to Use in 2024](https://giribikram.com.np/10-best-ai-tools-to-use-in-2024/)
 - [10 BEST Front-End Development Tools in 2024](https://giribikram.com.np/10-best-front-end-development-tools-in-2024/)
