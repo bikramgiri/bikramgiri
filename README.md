@@ -12,8 +12,8 @@
 - 🖥️ View my **[Portfolio](https://bikram-giri.com.np/)**   
 - 📫 How to reach me **giribikram40@gmail.com**.   
 ---
-
-### 📝 Latest Blog Posts
+ 
+### 📝 Latest Blog Posts 
 - [Generation Beta Babies Arrived](https://giribikram.com.np/generation-beta-babies-arrived/)
 - [How To Live The Life You Want](https://giribikram.com.np/how-to-live-the-life-you-want/)
 - [Top 10 IT skills in demand for 2025](https://giribikram.com.np/top-10-it-skills-in-demand-for-2025/)
