@@ -13,20 +13,21 @@
 - 📫 How to reach me **giribikram40@gmail.com**.   
 ---
  
-### 📝 Latest Blog Posts 
+### 📝 Latest Blog Posts
+- [Top Programming Languages to Learn in 2025](https://giribikram.com.np/top-programming-languages-to-learn-in-2025/) 
 - [Generation Beta Babies Arrived](https://giribikram.com.np/generation-beta-babies-arrived/) 
 - [How To Live The Life You Want](https://giribikram.com.np/how-to-live-the-life-you-want/)
 - [Top 10 IT skills in demand for 2025](https://giribikram.com.np/top-10-it-skills-in-demand-for-2025/)
-- [Top 10 AI Content Creation Tools for 2024](https://giribikram.com.np/top-10-ai-content-creation-tools-for-2024/)
+- [Top 10 AI Content Creation Tools](https://giribikram.com.np/top-10-ai-content-creation-tools-for-2024/)
 - [The Value of Living In The Moment](https://giribikram.com.np/the-value-of-living-in-the-moment/)
-- [10 Best AI Coding Assistant Tools in 2024](https://giribikram.com.np/10-best-ai-coding-assistant-tools-in-2024/)
+- [10 Best AI Coding Assistant Tools](https://giribikram.com.np/10-best-ai-coding-assistant-tools-in-2024/)
 - [10 Best AI Tools to Use in 2024](https://giribikram.com.np/10-best-ai-tools-to-use-in-2024/)
-- [10 BEST Front-End Development Tools in 2024](https://giribikram.com.np/10-best-front-end-development-tools-in-2024/)
-- [How To Start Affiliate Marketing In Nepal 2024](https://giribikram.com.np/how-to-start-affiliate-marketing-in-nepal-2024/)
+- [10 BEST Front-End Development Tools](https://giribikram.com.np/10-best-front-end-development-tools-in-2024/)
+- [How To Start Affiliate Marketing In Nepal](https://giribikram.com.np/how-to-start-affiliate-marketing-in-nepal-2024/)
 - [How to Get the GitHub Student Developer Pack](https://giribikram.com.np/how-to-get-the-github-student-developer-pack-in-nepal/)
-- [10 Best AI Tools for Students in 2024](https://giribikram.com.np/10-best-ai-tools-for-students-in-2024/)
+- [10 Best AI Tools for Students](https://giribikram.com.np/10-best-ai-tools-for-students-in-2024/)
 - [10 Must-Have VS Code Extensions for Developers in 2024](https://giribikram.com.np/10-must-have-vs-code-extensions-for-developers-in-2024/)
-- [How to Stay Safe and Secure Online in 2025](https://giribikram.com.np/how-to-stay-safe-and-secure-online/)
+- [How to Stay Safe and Secure Online](https://giribikram.com.np/how-to-stay-safe-and-secure-online/)
 - [10 Best AI Chrome Extensions To Save You Hours Of Work](https://giribikram.com.np/10-best-ai-chrome-extensions-to-save-you-hours-of-work/)
 - [10 AI Tools To Help You Learn Anything Faster](https://giribikram.com.np/10-ai-tools-to-help-you-learn-anything-faster/)
 
