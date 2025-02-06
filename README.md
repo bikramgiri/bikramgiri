@@ -13,7 +13,7 @@
 - 📫 How to reach me **giribikram40@gmail.com**.   
 ---
  
-### 📝 Latest Blog Posts
+# 📝 Latest Blog Posts
 - [Top Programming Languages to Learn in 2025](https://giribikram.com.np/top-programming-languages-to-learn-in-2025/) 
 - [Generation Beta Babies Arrived](https://giribikram.com.np/generation-beta-babies-arrived/) 
 - [How To Live The Life You Want](https://giribikram.com.np/how-to-live-the-life-you-want/)
@@ -31,7 +31,7 @@
 - [10 Best AI Chrome Extensions To Save You Hours Of Work](https://giribikram.com.np/10-best-ai-chrome-extensions-to-save-you-hours-of-work/)
 - [10 AI Tools To Help You Learn Anything Faster](https://giribikram.com.np/10-ai-tools-to-help-you-learn-anything-faster/)
 
-  ### 📺 Latest YouTube Videos
+  # 📺 Latest YouTube Videos
 - [10 Reasons Why LinkedIn is Essential for Every Professional || LinkedIn Secret](https://www.youtube.com/watch?v=fW8ant75WRo)
 - [10 Best Chrome Extensions in 2024🔥 || Boost Your Productivity!!](https://www.youtube.com/watch?v=4Uc1PQR0tNA&t=1s)
 - [Tips to stay safe on the internet II Online Security](https://www.youtube.com/watch?v=URXpbgqLYMQ&t=42s)
@@ -47,8 +47,9 @@
 <a href="https://www.youtube.com/@technologyknowledgee" target="blank" rel="noopener"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@technologyknowledgee" height="30" width="40" /></a>
 </p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+# Languages and Tools:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+[Python](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=%23F7DF1E)
 
 [![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=bikramgiri&layout=compact&theme=algolia)](https://github.com/bikramgiri)
 <br/>
