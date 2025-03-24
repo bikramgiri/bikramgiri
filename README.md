@@ -14,6 +14,7 @@
 ---
  
 # 📝 Latest Blog Posts
+- [10 Chrome Extensions Every Developer Should Use in 2025](https://giribikram.com.np/10-chrome-extensions-every-developer-should-use-in-2025/)
 - [Top Programming Languages to Learn in 2025](https://giribikram.com.np/top-programming-languages-to-learn-in-2025/) 
 - [Generation Beta Babies Arrived](https://giribikram.com.np/generation-beta-babies-arrived/) 
 - [How To Live The Life You Want](https://giribikram.com.np/how-to-live-the-life-you-want/)
