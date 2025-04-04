@@ -8,12 +8,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bikramgiri&label=Profile%20views&color=0e75b6&style=flat" alt="bikramgiri" /> </p>
 
 - 👀 I’m interested in **Data Science**, **AI/ML**, **Web Development**, and **learning new skills**.
-- 🌱 I’m currently learning **React**. 
+- 🌱 I’m currently learning **Node JS**. 
 - 🖥️ View my **[Portfolio](https://bikram-giri.com.np/)**   
 - 📫 How to reach me **giribikram40@gmail.com**.   
 ---
  
 # 📝 Latest Blog Posts
+- [12 AI Tools That Will Transform How You Do Business in 2025](https://giribikram.com.np/12-ai-tools-that-will-transform-how-you-do-business-in-2025/) 
 - [10 Chrome Extensions Every Developer Should Use in 2025](https://giribikram.com.np/10-chrome-extensions-every-developer-should-use-in-2025/)
 - [Top Programming Languages to Learn in 2025](https://giribikram.com.np/top-programming-languages-to-learn-in-2025/) 
 - [Generation Beta Babies Arrived](https://giribikram.com.np/generation-beta-babies-arrived/) 
