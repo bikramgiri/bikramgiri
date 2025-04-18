@@ -15,6 +15,7 @@
  
 # 📝 Latest Blog Posts
 
+- [How to Register a .com.np Domain for Free in Nepal (2025 Guide)](https://giribikram.com.np/how-to-register-a-com-np-domain-for-free-in-nepal/)
 - [10 Best AI Tools for Video Editing in 2025: Transform Your Workflow](https://giribikram.com.np/10-best-ai-tools-for-video-editing-2025-transform-your-workflow/) 
 - [12 AI Tools That Will Transform How You Do Business in 2025](https://giribikram.com.np/12-ai-tools-that-will-transform-how-you-do-business-in-2025/) 
 - [10 Chrome Extensions Every Developer Should Use in 2025](https://giribikram.com.np/10-chrome-extensions-every-developer-should-use-in-2025/)
@@ -27,9 +28,9 @@
 - [10 BEST Front-End Development Tools](https://giribikram.com.np/10-best-front-end-development-tools-in-2024/)
 - [How To Start Affiliate Marketing In Nepal](https://giribikram.com.np/how-to-start-affiliate-marketing-in-nepal-2024/)
 - [How to Get the GitHub Student Developer Pack](https://giribikram.com.np/how-to-get-the-github-student-developer-pack-in-nepal/)
-- [10 Best AI Tools for Students](https://giribikram.com.np/10-best-ai-tools-for-students-in-2024/)
+- [10 Best AI Tools for Students in 2025](https://giribikram.com.np/10-best-ai-tools-for-students-in-2024/)
 - [10 Must-Have VS Code Extensions for Developers in 2025](https://giribikram.com.np/10-must-have-vs-code-extensions-for-developers-in-2024/)
-- [How to Stay Safe and Secure Online](https://giribikram.com.np/how-to-stay-safe-and-secure-online/)
+- [How to Stay Safe and Secure Online in 2025](https://giribikram.com.np/how-to-stay-safe-and-secure-online/)
 - [10 Best AI Chrome Extensions To Save You Hours Of Work](https://giribikram.com.np/10-best-ai-chrome-extensions-to-save-you-hours-of-work/)
 - [10 AI Tools To Help You Learn Anything Faster](https://giribikram.com.np/10-ai-tools-to-help-you-learn-anything-faster/)
 
