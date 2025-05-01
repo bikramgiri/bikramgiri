@@ -15,6 +15,7 @@
  
 # 📝 Latest Blog Posts
 
+- [Top 10 Vibe Coding Tools in 2025 That Will Blow Your Mind](https://giribikram.com.np/top-10-vibe-coding-tools-in-2025-that-will-blow-your-mind/)
 - [How to Register a .com.np Domain for Free in Nepal (2025 Guide)](https://giribikram.com.np/how-to-register-a-com-np-domain-for-free-in-nepal/)
 - [10 Best AI Tools for Video Editing in 2025: Transform Your Workflow](https://giribikram.com.np/10-best-ai-tools-for-video-editing-2025-transform-your-workflow/) 
 - [12 AI Tools That Will Transform How You Do Business in 2025](https://giribikram.com.np/12-ai-tools-that-will-transform-how-you-do-business-in-2025/) 
