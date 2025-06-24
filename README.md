@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bikramgiri&label=Profile%20views&color=0e75b6&style=flat" alt="bikramgiri" /> </p>
 
 - 👀 I’m interested in **Data Science**, **AI/ML**, **Web Development**, and **learning new skills**.
-- 🌱 I’m currently learning **MERN**. 
+- 🌱 I’m currently learning **MERN Stack**. 
 - 🖥️ View my **[Portfolio](https://bikram-giri.com.np/)**   
 - 📫 How to reach me **giribikram40@gmail.com**.   
 ---
