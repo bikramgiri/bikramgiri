@@ -15,6 +15,9 @@
  
 # 📝 Latest Blog Posts
 
+- [How to Become a Full-Stack Developer in 2025 (Beginner’s Guide)](https://giribikram.com.np/how-to-become-a-full-stack-developer-in-2025/)
+- [Will AI Replace Jobs? How to Stay Ahead in 2025](https://giribikram.com.np/will-ai-replace-jobs-how-to-stay-ahead-in-2025/)
+- [How to Start Affiliate Marketing in Nepal (2025 Guide for Beginners)](https://giribikram.com.np/how-to-start-affiliate-marketing-in-nepal/)
 - [Top 10 Vibe Coding Tools in 2025 That Will Blow Your Mind](https://giribikram.com.np/top-10-vibe-coding-tools-in-2025-that-will-blow-your-mind/)
 - [How to Register a .com.np Domain for Free in Nepal (2025 Guide)](https://giribikram.com.np/how-to-register-a-com-np-domain-for-free-in-nepal/)
 - [10 Best AI Tools for Video Editing in 2025: Transform Your Workflow](https://giribikram.com.np/10-best-ai-tools-for-video-editing-2025-transform-your-workflow/) 
@@ -27,7 +30,6 @@
 - [The Value of Living In The Moment](https://giribikram.com.np/the-value-of-living-in-the-moment/)
 - [10 Best AI Coding Assistant Tools](https://giribikram.com.np/10-best-ai-coding-assistant-tools-in-2024/)
 - [10 BEST Front-End Development Tools](https://giribikram.com.np/10-best-front-end-development-tools-in-2024/)
-- [How To Start Affiliate Marketing In Nepal](https://giribikram.com.np/how-to-start-affiliate-marketing-in-nepal-2024/)
 - [How to Get the GitHub Student Developer Pack](https://giribikram.com.np/how-to-get-the-github-student-developer-pack-in-nepal/)
 - [10 Best AI Tools for Students in 2025](https://giribikram.com.np/10-best-ai-tools-for-students-in-2024/)
 - [10 Must-Have VS Code Extensions for Developers in 2025](https://giribikram.com.np/10-must-have-vs-code-extensions-for-developers-in-2024/)
