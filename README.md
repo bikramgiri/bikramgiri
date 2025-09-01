@@ -25,7 +25,7 @@
 - [12 AI Tools That Will Transform How You Do Business in 2025](https://giribikram.com.np/12-ai-tools-that-will-transform-how-you-do-business-in-2025/) 
 - [10 Chrome Extensions Every Developer Should Use in 2025](https://giribikram.com.np/10-chrome-extensions-every-developer-should-use-in-2025/)
 - [Top Programming Languages to Learn in 2025](https://giribikram.com.np/top-programming-languages-to-learn-in-2025/) 
-- [How To Live The Life You Want](https://giribikram.com.np/how-to-live-the-life-you-want/)
+- [How To Live The Life You Want](https://giribikram.com.np/how-to-live-the-life-you-want/) 
 - [Top 10 IT skills in demand for 2025](https://giribikram.com.np/top-10-it-skills-in-demand-for-2025/)
 - [The Value of Living In The Moment](https://giribikram.com.np/the-value-of-living-in-the-moment/)
 - [10 Best AI Coding Assistant Tools](https://giribikram.com.np/10-best-ai-coding-assistant-tools-in-2024/)
