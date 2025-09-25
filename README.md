@@ -15,6 +15,7 @@
  
 # 📝 Latest Blog Posts
 
+- [AI Agents 2025: How They Work and Real Applications](https://giribikram.com.np/ai-agents-2025-how-they-work-and-real-applications/)
 - [AI Education 2025: Transforming How Students Learn Today](https://giribikram.com.np/ai-education-2025-student-learning-transformation/)
 - [How to Become a Full-Stack Developer in 2025 (Beginner’s Guide)](https://giribikram.com.np/how-to-become-a-full-stack-developer-in-2025/)
 - [Will AI Replace Jobs? How to Stay Ahead in 2025](https://giribikram.com.np/will-ai-replace-jobs-how-to-stay-ahead-in-2025/)
