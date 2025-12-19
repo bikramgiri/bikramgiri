@@ -15,6 +15,7 @@
  
 # 📝 Latest Blog Posts
 
+- [10 AI Skills That Will Future-Proof Your Career in 2026](https://giribikram.com.np/10-ai-skills-that-will-future-proof-your-career-in-2026/)
 - [10 AI Tools That Save You Hours Every Day](https://giribikram.com.np/free-ai-tools-for-productivity-save-hours-daily/)
 - [AI Agents 2025: How They Work and Real Applications](https://giribikram.com.np/ai-agents-2025-how-they-work-and-real-applications/)
 - [How to Become a Full-Stack Developer in 2025 (Beginner’s Guide)](https://giribikram.com.np/how-to-become-a-full-stack-developer-in-2025/)
