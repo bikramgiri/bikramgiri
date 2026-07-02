@@ -15,6 +15,7 @@
  
 # 📝 Latest Blog Posts
 
+- [8 Claude AI Habits I Use Every Single Day](https://giribikram.com.np/claude-ai-habits-daily-use/)
 - [8 Claude AI Features That Genuinely Surprised Me in 2026](https://giribikram.com.np/8-claude-ai-features-that-genuinely-surprised-me-in-2026/)
 - [Best Student Laptops in 2026 I Actually Recommend](https://giribikram.com.np/best-student-laptops-2026/)
 - [10 Claude AI Tips That Tripled My Productivity in 2026](https://giribikram.com.np/10-claude-ai-tips-that-tripled-my-productivity-in-2026/)
