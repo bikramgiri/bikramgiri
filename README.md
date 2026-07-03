@@ -42,6 +42,9 @@
 - [10 AI Tools To Help You Learn Anything Faster](https://giribikram.com.np/10-ai-tools-to-help-you-learn-anything-faster/)
 
   # 📺 Latest YouTube Videos
+- [🚀 You’re Only Using 20% of Claude: 8 Habits to Unlock the Rest](https://youtu.be/FTYAXze1e6w?si=AwDtyTPFLwfjKkwm)
+- [Full E-Commerce Website Demo (Customer + Admin Panel) | MERN Stack Project 2026 🛒](https://youtu.be/C7zoZshnn9g?si=M6jB-90Q9WmswCzY)
+- [What are Git & GitHub? || Why Should You Use It?](https://youtu.be/qAnxXM_XVGo?si=upbc-DI28pP3rQ78)
 - [10 Reasons Why LinkedIn is Essential for Every Professional || LinkedIn Secret](https://www.youtube.com/watch?v=fW8ant75WRo)
 - [10 Best Chrome Extensions in 2024🔥 || Boost Your Productivity!!](https://www.youtube.com/watch?v=4Uc1PQR0tNA&t=1s)
 - [Tips to stay safe on the internet II Online Security](https://www.youtube.com/watch?v=URXpbgqLYMQ&t=42s)
