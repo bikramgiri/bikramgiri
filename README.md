@@ -15,6 +15,7 @@
  
 # 📝 Latest Blog Posts
 
+- [No CS Degree? Become an AI Engineer in 2026](https://giribikram.com.np/become-ai-engineer-2026/)
 - [10 Best AI Tools for Students in 2026 (Tested)](https://giribikram.com.np/best-ai-tools-for-students/)
 - [10 Ways to Make Money With AI in 2026 (Tested & Ranked)](https://giribikram.com.np/make-money-with-ai/)
 - [10 Timeless Bhagavad Gita Lessons for a Better Life](https://giribikram.com.np/gita-lessons-better-life-10-tips/) 
