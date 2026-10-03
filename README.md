@@ -15,6 +15,7 @@
  
 # 📝 Latest Blog Posts
 
+- [7 AI Coding Agents That Changed How Developers Work in 2026](https://giribikram.com.np/ai-coding-agents-2026/)
 - [No CS Degree? Become an AI Engineer in 2026](https://giribikram.com.np/become-ai-engineer-2026/)
 - [10 Best AI Tools for Students in 2026 (Tested)](https://giribikram.com.np/best-ai-tools-for-students/)
 - [10 Ways to Make Money With AI in 2026 (Tested & Ranked)](https://giribikram.com.np/make-money-with-ai/)
