@@ -15,6 +15,8 @@
  
 # 📝 Latest Blog Posts
 
+- [How to Use Google Search Console](https://giribikram.com.np/how-to-use-google-search-console/)
+- [How to Start Freelancing in Nepal (2026 Guide)](https://giribikram.com.np/how-to-start-freelancing-in-nepal/)
 - [7 AI Coding Agents That Changed How Developers Work in 2026](https://giribikram.com.np/ai-coding-agents-2026/)
 - [No CS Degree? Become an AI Engineer in 2026](https://giribikram.com.np/become-ai-engineer-2026/)
 - [10 Best AI Tools for Students in 2026 (Tested)](https://giribikram.com.np/best-ai-tools-for-students/)
